@@ -1,0 +1,21 @@
+.lista-opciones{
+    display: flex;
+    flex-direction: column;
+    margin: 2.4rem 0;
+}
+.lista-opciones label{
+    font-size: 1.8rem;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 0.8rem;
+    color: red;
+}
+.lista-opciones input{
+    width: 100%;
+    background-color: #FFFFFF;
+    box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.06);
+    border: none;
+    padding: 3rem 2rem;
+    outline-color: #6278F7;
+    font-size: 1.6rem;
+}

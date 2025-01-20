@@ -1,0 +1,26 @@
+.equipo{
+    width: 100%;
+    height: auto;
+    padding: 1rem 4rem;
+    text-align: center;
+    font-size: 3.2rem;
+    position: relative;
+}
+.equipo h3{
+    font-weight: 400;
+    color: #212121;
+    display: inline-block;
+    padding-bottom: 0.8rem;
+    margin-bottom: 4rem;
+    border-bottom: 0.4rem solid #57c278;
+}
+.equipo .cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.equipo .equipo__color{
+    position: absolute;
+    top: 2rem;
+    right: 5rem;
+}
